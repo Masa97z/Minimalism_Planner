@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="backGrund">#FAFAFA</color>
+    <color name="prim">#10BAA5</color>
+    <color name="sec1">#D6FFFA</color>
+    <color name="sec2">#EFFFFD</color>
+    <color name="textTiltle">#004038</color>
+    <color name="process">#61FFB74B</color>
+
+</resources>
